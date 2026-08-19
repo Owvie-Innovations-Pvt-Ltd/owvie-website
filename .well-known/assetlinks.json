@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zznius.owvie",
+      "sha256_cert_fingerprints": [
+        "9E:F2:4F:0E:77:52:54:8A:5A:6B:34:A2:B3:A7:16:D0:87:69:5C:E4:77:1B:5E:92:1E:5F:6E:2A:F0:3A:FA:F6"
+      ]
+    }
+  }
+]
