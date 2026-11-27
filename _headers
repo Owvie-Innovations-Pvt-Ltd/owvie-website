@@ -1,0 +1,4 @@
+# Cloudflare Pages response headers.
+# The Apple file has no extension, so it needs an explicit JSON content type.
+/.well-known/apple-app-site-association
+  Content-Type: application/json
